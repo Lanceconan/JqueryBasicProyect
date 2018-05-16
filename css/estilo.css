@@ -52,3 +52,13 @@ button{
 #contenedor{
 	margin: 20px;
 }
+
+#c3{
+	padding: 20px;
+	text-align: center;
+	width: 300px;
+	height: auto;
+	background: chocolate;
+	color: white;
+	display: none;
+}
