@@ -28,6 +28,7 @@ input{
 
 button{
 	padding: 10px;
+	margin: 20px;
 }
 
 #caja2{
@@ -46,4 +47,8 @@ button{
 	padding: 20px;
 	font-size: 24px;
 	text-align: center;
+}
+
+#contenedor{
+	margin: 20px;
 }
